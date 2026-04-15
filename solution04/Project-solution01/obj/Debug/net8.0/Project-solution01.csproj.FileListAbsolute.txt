@@ -12,3 +12,4 @@ C:\Users\mozam\Downloads\Swiq soluation\solution04\Project-solution01\obj\Debug\
 C:\Users\mozam\Downloads\Swiq soluation\solution04\Project-solution01\obj\Debug\net8.0\Project-solution01.pdb
 C:\Users\mozam\Downloads\Swiq soluation\solution04\Project-solution01\obj\Debug\net8.0\Project-solution01.genruntimeconfig.cache
 C:\Users\mozam\Downloads\Swiq soluation\solution04\Project-solution01\obj\Debug\net8.0\ref\Project-solution01.dll
+C:\Users\mozam\Downloads\Swiq soluation\solution04\Project-solution01\obj\Debug\net8.0\Project-solution01.sourcelink.json

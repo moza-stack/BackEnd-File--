@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "J+dY62n3f2Q=",
+  "dgSpecHash": "GOK2buWg5PI=",
   "success": true,
   "projectFilePath": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\solution04\\Project-solution01\\Project-solution01.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mozam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\mozam\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\mozam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\mozam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
