@@ -1,0 +1,15 @@
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\bin\Debug\net8.0\Order Processing SystemM.exe
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\bin\Debug\net8.0\Order Processing SystemM.deps.json
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\bin\Debug\net8.0\Order Processing SystemM.runtimeconfig.json
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\bin\Debug\net8.0\Order Processing SystemM.dll
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\bin\Debug\net8.0\Order Processing SystemM.pdb
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\obj\Debug\net8.0\Order Processing SystemM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\obj\Debug\net8.0\Order Processing SystemM.AssemblyInfoInputs.cache
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\obj\Debug\net8.0\Order Processing SystemM.AssemblyInfo.cs
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\obj\Debug\net8.0\Order Processing SystemM.csproj.CoreCompileInputs.cache
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\obj\Debug\net8.0\Order Processing SystemM.sourcelink.json
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\obj\Debug\net8.0\Order Processing SystemM.dll
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\obj\Debug\net8.0\refint\Order Processing SystemM.dll
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\obj\Debug\net8.0\Order Processing SystemM.pdb
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\obj\Debug\net8.0\Order Processing SystemM.genruntimeconfig.cache
+C:\Users\mozam\Downloads\Swiq soluation\week4\Order Processing SystemM\Order Processing SystemM\obj\Debug\net8.0\ref\Order Processing SystemM.dll

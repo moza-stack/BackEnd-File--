@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Order Processing SystemM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6F9A3A-E38B-377A-5636-3B521881863E}|Order Processing SystemM\\Order Processing SystemM.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\order processing systemm\\order processing systemm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6F9A3A-E38B-377A-5636-3B521881863E}|Order Processing SystemM\\Order Processing SystemM.csproj|solutionrelative:order processing systemm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 802,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Order Processing SystemM\\Order Processing SystemM\\Program.cs",
+              "RelativeDocumentMoniker": "Order Processing SystemM\\Program.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Order Processing SystemM\\Order Processing SystemM\\Program.cs",
+              "RelativeToolTip": "Order Processing SystemM\\Program.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAwwHIBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T07:09:29.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
