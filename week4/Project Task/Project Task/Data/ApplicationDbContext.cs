@@ -6,19 +6,16 @@ namespace MovieStreamingSystem.Data
     public class ApplicationDbContext : DbContext
     {
         public DbSet<User> Users { get; set; }
-
         public DbSet<Movie> Movies { get; set; }
-
         public DbSet<Category> Categories { get; set; }
-
         public DbSet<Review> Reviews { get; set; }
-
         public DbSet<Watchlist> Watchlists { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            
             optionsBuilder.UseSqlServer(
-                "Server=.;Database=MovieStreamingDB;Trusted_Connection=True;TrustServerCertificate=True");
+                "Server=ALMAZIDI;Database=MovieStreamingDB;Trusted_Connection=True;TrustServerCertificate=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -28,7 +25,6 @@ namespace MovieStreamingSystem.Data
                 .HasKey(w => new { w.UserId, w.MovieId });
 
             // Relationships
-
             modelBuilder.Entity<Movie>()
                 .HasOne(m => m.Category)
                 .WithMany(c => c.Movies)
