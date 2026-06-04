@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Soluation50\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94200EBA-B6DD-4C4A-9A62-9E405A73F7BA}|Project\\Project.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\soluation50\\project\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94200EBA-B6DD-4C4A-9A62-9E405A73F7BA}|Project\\Project.csproj|solutionrelative:project\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94200EBA-B6DD-4C4A-9A62-9E405A73F7BA}|Project\\Project.csproj|c:\\users\\mozam\\downloads\\swiq soluation\\week4\\soluation50\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94200EBA-B6DD-4C4A-9A62-9E405A73F7BA}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Soluation50\\Project\\Guest.cs",
+              "RelativeDocumentMoniker": "Project\\Guest.cs",
+              "ToolTip": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Soluation50\\Project\\Guest.cs",
+              "RelativeToolTip": "Project\\Guest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T04:23:24.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mozam\\Downloads\\Swiq soluation\\week4\\Soluation50\\Project\\Program.cs",
               "RelativeDocumentMoniker": "Project\\Program.cs",

@@ -25,7 +25,7 @@ namespace Project
         {  return totalGuestsCreated; }
         public void DisplayInfo()
         {
-            Console.WriteLine($"Guest Name: {fullName}");
+            Console.WriteLine($"Guest fullName: {fullName}");
             Console.WriteLine($"National ID: {nationalID}");
         }
                 
